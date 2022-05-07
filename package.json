@@ -1,0 +1,25 @@
+{
+  "name": "teste-next",
+  "version": "1.0.0",
+  "description": "Repositório de teste do Framework Next.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhonatancassante/teste-next.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhonatancassante/teste-next/issues"
+  },
+  "homepage": "https://github.com/jhonatancassante/teste-next#readme",
+  "dependencies": {
+    "next": "^12.1.6",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
